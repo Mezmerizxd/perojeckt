@@ -1,0 +1,12 @@
+.navigation_container {
+  display: flex;
+  background: rgba(255, 255, 255, 0.25);
+  background: blur(4px);
+  box-shadow: 0 0px 8px 0 rgb(0 0 0 / 20%), 0 0px 8px 0 rgb(0 0 0 / 20%);
+  width: fit-content;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 5px;
+  margin: auto;
+}
